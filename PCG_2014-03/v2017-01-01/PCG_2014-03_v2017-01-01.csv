@@ -1,0 +1,1006 @@
+1	abrégé	Comptes de capitaux
+10	base	Capital et réserves
+101	abrégé	Capital
+1011	étendu	Capital souscrit – non appelé
+1012	étendu	Capital souscrit – appelé, non versé
+1013	étendu	Capital souscrit – appelé, versé
+10131	étendu	Capital non amorti
+10132	étendu	Capital amorti
+1018	étendu	Capital souscrit soumis à des réglementations particulières
+102	base	Fonds fiduciaires
+104	base	Primes liées au capital social
+1041	étendu	Primes d’émission
+1042	étendu	Primes de fusion
+1043	étendu	Primes d’apport
+1044	étendu	Primes de conversion d’obligations en actions
+1045	étendu	Bons de souscription d’actions
+105	abrégé	Écarts de réévaluation
+1051	étendu	Réserve spéciale de réévaluation
+1052	étendu	Écart de réévaluation libre
+1053	étendu	Réserve de réévaluation
+1055	étendu	Écarts de réévaluation (autres opérations légales)
+1057	étendu	Autres écarts de réévaluation en France
+1058	étendu	Autres écarts de réévaluation à l’Étranger
+106	base	Réserves
+1061	abrégé	Réserve légale
+10611	étendu	Réserve légale proprement dite
+10612	étendu	Plus-values nettes à long terme
+1062	base	Réserves indisponibles
+1063	abrégé	Réserves statutaires ou contractuelles
+1064	abrégé	Réserves réglementées
+10641	étendu	Plus-values nettes à long terme
+10643	étendu	Réserves consécutives à l’octroi de subventions d’investissement
+10648	étendu	Autres réserves réglementées
+1068	abrégé	Autres réserves
+10681	étendu	Réserve de propre assureur
+10688	étendu	Réserves diverses
+107	base	Écart d’équivalence
+108	abrégé	Compte de l’exploitant
+109	base	Actionnaires : Capital souscrit – non appelé
+11	base	Report à nouveau (solde créditeur ou débiteur)
+110	étendu	Report à nouveau (solde créditeur)
+119	étendu	Report à nouveau (solde débiteur)
+12	abrégé	Résultat de l’exercice (bénéfice ou perte)
+120	étendu	Résultat de l’exercice (bénéfice)
+129	étendu	Résultat de l’exercice (perte)
+13	base	Subventions d’investissement
+131	base	Subventions d’équipement
+1311	étendu	État
+1312	étendu	Régions
+1313	étendu	Départements
+1314	étendu	Communes
+1315	étendu	Collectivités publiques
+1316	étendu	Entreprises publiques
+1317	étendu	Entreprises et organismes privés
+1318	étendu	Autres
+138	base	Autres subventions d’investissement (même ventilation que celle du compte 131)
+139	base	Subventions d’investissement inscrites au compte de résultat
+1391	base	Subventions d’équipement
+13911	étendu	État
+13912	étendu	Régions
+13913	étendu	Départements
+13914	étendu	Communes
+13915	étendu	Collectivités publiques
+13916	étendu	Entreprises publiques
+13917	étendu	Entreprises et organismes privés
+13918	étendu	Autres
+1398	base	Autres subventions d’investissement (même ventilation que celle du compte 1391)
+14	base	Provisions réglementées
+142	base	Provisions réglementées relatives aux immobilisations
+1423	étendu	Provisions pour reconstitution des gisements miniers et pétroliers
+1424	étendu	Provisions pour investissement (participation des salariés)
+143	base	Provisions réglementées relatives aux stocks
+1431	étendu	Hausse des prix
+1432	étendu	Fluctuation des cours
+144	base	Provisions réglementées relatives aux autres éléments de l’actif
+145	abrégé	Amortissements dérogatoires
+146	abrégé	Provision spéciale de réévaluation
+147	abrégé	Plus-values réinvesties
+148	abrégé	Autres provisions réglementées
+15	abrégé	Provisions
+151	base	Provisions pour risques
+1511	étendu	Provisions pour litiges
+1512	étendu	Provisions pour garanties données aux clients
+1513	étendu	Provisions pour pertes sur marchés à terme
+1514	étendu	Provisions pour amendes et pénalités
+1515	étendu	Provisions pour pertes de change
+1516	étendu	Provisions pour pertes sur contrats
+1518	étendu	Autres provisions pour risques
+153	base	Provisions pour pensions et obligations similaires
+154	base	Provisions pour restructurations
+155	base	Provisions pour impôts
+156	base	Provisions pour renouvellement des immobilisations (entreprises concessionnaires)
+157	base	Provisions pour charges à répartir sur plusieurs exercices
+1572	étendu	Provisions pour gros entretien ou grandes révisions
+158	base	Autres provisions pour charges
+1581	étendu	Provisions pour remises en état
+16	abrégé	Emprunts et dettes assimilées
+161	base	Emprunts obligataires convertibles
+162	base	Obligations représentatives de passifs nets remis en fiducie
+163	base	Autres emprunts obligataires
+164	base	Emprunts auprès des établissements de crédit
+165	base	Dépôts et cautionnements reçus
+1651	étendu	Dépôts
+1655	étendu	Cautionnements
+166	étendu	Participation des salariés aux résultats
+1661	étendu	Comptes bloqués
+1662	étendu	Fonds de participation
+167	base	Emprunts et dettes assortis de conditions particulières
+1671	base	Émissions de titres participatifs
+1674	base	Avances conditionnées de l’État
+1675	base	Emprunts participatifs
+168	base	Autres emprunts et dettes assimilées
+1681	étendu	Autres emprunts
+1685	étendu	Rentes viagères capitalisées
+1687	étendu	Autres dettes
+1688	étendu	Intérêts courus
+16881	étendu	sur emprunts obligataires convertibles
+16883	étendu	sur autres emprunts obligataires
+16884	étendu	sur emprunts auprès des établissements de crédit
+16885	étendu	sur dépôts et cautionnements reçus
+16886	étendu	sur participation des salariés aux résultats
+16887	étendu	sur emprunts et dettes assortis de conditions particulières
+16888	étendu	sur autres emprunts et dettes assimilées
+169	base	Primes de remboursement des obligations
+17	base	Dettes rattachées à des participations
+171	base	Dettes rattachées à des participations (groupe)
+174	base	Dettes rattachées à des participations (hors groupe)
+178	base	Dettes rattachées à des sociétés en participation
+1781	étendu	Principal
+1788	étendu	Intérêts courus
+18	base	Comptes de liaison des établissements et sociétés en participation
+181	étendu	Comptes de liaison des établissements
+186	étendu	Biens et prestations de services échangés entre établissements (charges)
+187	étendu	Biens et prestations de services échangés entre établissements (produits)
+188	étendu	Comptes de liaison des sociétés en participation
+2	abrégé	Comptes d’immobilisations
+20	abrégé	Immobilisations incorporelles
+201	abrégé	Frais d’établissement
+2011	étendu	Frais de constitution
+2012	étendu	Frais de premier établissement
+20121	étendu	Frais de prospection
+20122	étendu	Frais de publicité
+2013	étendu	Frais d’augmentation de capital et d’opérations diverses (fusions, scissions, transformations)
+203	base	Frais de recherche et de développement
+205	base	Concessions et droits similaires, brevets, licences, marques, procédés, logiciels, droits et valeurs similaires
+206	abrégé	Droit au bail
+207	abrégé	Fonds commercial
+208	abrégé	Autres immobilisations incorporelles
+2081	base	Mali de fusion sur actifs incorporels
+21	abrégé	Immobilisations corporelles
+211	base	Terrains
+2111	base	Terrains nus
+2112	base	Terrains aménagés
+2113	base	Sous-sols et sursols
+2114	base	Terrains de carrières (Tréfonds)
+2115	base	Terrains bâtis
+21151	étendu	Ensembles immobiliers industriels (A, B)
+21155	étendu	Ensembles immobiliers administratifs et commerciaux (A, B)
+21158	étendu	Autres ensembles immobiliers
+211581	étendu	affectés aux opérations professionnelles (A, B)
+211588	étendu	affectés aux opérations non professionnelles (A, B)
+2116	base	Compte d’ordre sur immobilisations
+212	base	Agencements et aménagements de terrains (même ventilation que celle du compte 211)
+213	base	Constructions
+2131	base	Bâtiments
+21311	étendu	Ensembles immobiliers industriels (A, B)
+21315	étendu	Ensembles immobiliers administratifs et commerciaux (A, B)
+21318	étendu	Autres ensembles immobiliers
+213181	étendu	affectés aux opérations professionnelles (A, B)
+213188	étendu	affectés aux opérations non professionnelles (A, B)
+2135	base	Installations générales – agencements – aménagements des constructions
+21351	étendu	Ensembles immobiliers industriels (A, B)
+21355	étendu	Ensembles immobiliers administratifs et commerciaux (A, B)
+21358	étendu	Autres ensembles immobiliers
+213581	étendu	affectés aux opérations professionnelles (A, B)
+213588	étendu	affectés aux opérations non professionnelles (A, B)
+2138	base	Ouvrages d’infrastructure
+21381	étendu	Voies de terre
+21382	étendu	Voies de fer
+21383	étendu	Voies d’eau
+21384	étendu	Barrages
+21385	étendu	Pistes d’aérodromes
+214	base	Constructions sur sol d’autrui (même ventilation que celle du compte 213)
+215	base	Installations techniques, matériels et outillage industriels
+2151	base	Installations complexes spécialisées
+21511	étendu	sur sol propre
+21514	étendu	sur sol d’autrui
+2153	base	Installations à caractère spécifique
+21531	étendu	sur sol propre
+21534	étendu	sur sol d’autrui
+2154	base	Matériel industriel
+2155	base	Outillage industriel
+2157	base	Agencements et aménagements du matériel et outillage industriels
+218	base	Autres immobilisations corporelles
+2181	base	Installations générales, agencements, aménagements divers
+2182	base	Matériel de transport
+2183	base	Matériel de bureau et matériel informatique
+2184	base	Mobilier
+2185	base	Cheptel
+2186	base	Emballages récupérables
+2187	base	Mali de fusions sur actifs corporels
+22	base	Immobilisations mises en concession
+23	abrégé	Immobilisations en cours
+231	base	Immobilisations corporelles en cours
+2312	étendu	Terrains
+2313	étendu	Constructions
+2315	étendu	Installations techniques, matériel et outillage industriels
+2318	étendu	Autres immobilisations corporelles
+232	base	Immobilisations incorporelles en cours
+237	base	Avances et acomptes versés sur immobilisations incorporelles
+238	base	Avances et acomptes versés sur commandes d’immobilisations corporelles
+2382	étendu	Terrains
+2383	étendu	Constructions
+2385	étendu	Installations techniques, matériel et outillage industriels
+2388	base	Autres immobilisations corporelles
+25	base	Parts dans des entreprises liées et créances sur des entreprises liées
+26	base	Participations et créances rattachées à des participations
+261	base	Titres de participation
+2611	étendu	Actions
+2618	étendu	Autres titres
+266	base	Autres formes de participation
+2661	étendu	Droits représentatifs d’actifs nets remis en fiducie
+267	base	Créances rattachées à des participations
+2671	étendu	Créances rattachées à des participations (groupe)
+2674	étendu	Créances rattachées à des participations (hors groupe)
+2675	étendu	Versements représentatifs d’apports non capitalisés (appel de fonds)
+2676	étendu	Avances consolidables
+2677	étendu	Autres créances rattachées à des participations
+2678	étendu	Intérêts courus
+268	base	Créances rattachées à des sociétés en participation
+2681	étendu	Principal
+2688	étendu	Intérêts courus
+269	base	Versements restant à effectuer sur titres de participation non libérés
+27	abrégé	Autres immobilisations financières
+271	base	Titres immobilisés autres que les titres immobilisés de l’activité de portefeuille (droit de propriété)
+2711	étendu	Actions
+2718	étendu	Autres titres
+272	base	Titres immobilisés (droit de créance)
+2721	étendu	Obligations
+2722	étendu	Bons
+273	base	Titres immobilisés de l’activité de portefeuille
+274	base	Prêts
+2741	étendu	Prêts participatifs
+2742	étendu	Prêts aux associés
+2743	étendu	Prêts au personnel
+2748	étendu	Autres prêts
+275	base	Dépôts et cautionnements versés
+2751	étendu	Dépôts
+2755	étendu	Cautionnements
+276	base	Autres créances immobilisées
+2761	étendu	Créances diverses
+2768	étendu	Intérêts courus
+27682	étendu	sur titres immobilisés (droit de créance)
+27684	étendu	sur prêts
+27685	étendu	sur dépôts et cautionnements
+27688	étendu	sur créances diverses
+277	base	(Actions propres ou parts propres)
+2771	étendu	Actions propres ou parts propres
+2772	étendu	Actions propres ou parts propres en voie d’annulation
+278	base	Mali de fusion sur actifs financiers
+279	base	Versements restant à effectuer sur titres immobilisés non libérés
+28	base	Amortissements des immobilisations
+280	abrégé	Amortissements des immobilisations incorporelles
+2801	base	Frais d’établissement (même ventilation que celle du compte 201)
+2803	base	Frais de recherche et de développement
+2805	base	Concessions et droits similaires, brevets, licences, logiciels, droits et valeurs similaires
+2807	base	Fonds commercial
+2808	base	Autres immobilisations incorporelles
+28081	base	Amortissements du mali de fusion sur actifs incorporels
+281	abrégé	Amortissements des immobilisations corporelles
+2812	base	Agencements, aménagements de terrains (même ventilation que celle du compte 212)
+2813	base	Constructions (même ventilation que celle du compte 213)
+2814	base	Constructions sur sol d’autrui (même ventilation que celle du compte 214)
+2815	base	Installations, matériel et outillage industriels (même ventilation que celle du compte 215)
+2818	base	Autres immobilisations corporelles (même ventilation que celle du compte 218)
+28187	base	Amortissement du mali de fusion sur actifs corporels
+282	base	Amortissements des immobilisations mises en concession
+29	base	Dépréciations des immobilisations
+290	abrégé	Dépréciations des immobilisations incorporelles
+2905	base	Marques, procédés, droits et valeurs similaires
+2906	base	Droit au bail
+2907	base	Fonds commercial
+2908	base	Autres immobilisations incorporelles
+29081	base	Dépréciation du mali de fusion sur actifs incorporels
+291	abrégé	Dépréciations des immobilisations corporelles (même ventilation que celle du compte 21)
+29187	base	Dépréciation du mali de fusion sur actifs corporels
+292	base	Dépréciations des immobilisations mises en concession
+293	base	Dépréciations des immobilisations en cours
+2931	base	Immobilisations corporelles en cours
+2932	base	Immobilisations incorporelles en cours
+296	base	Dépréciations des participations et créances rattachées à des participations
+2961	base	Titres de participation
+2966	base	Autres formes de participation
+2967	base	Créances rattachées à des participations (même ventilation que celle du compte 267)
+2968	base	Créances rattachées à des sociétés en participation (même ventilation que celle du compte 268)
+297	abrégé	Dépréciations des autres immobilisations financières
+2971	base	Titres immobilisés autres que les titres immobilisés de l’activité de portefeuille – droit de propriété (même ventilation que celle du compte 271)
+2972	base	Droit de créance (même ventilation que celle du compte 272)
+2973	base	Titres immobilisés de l’activité de portefeuille
+2974	base	Prêts (même ventilation que celle du compte 274)
+2975	base	Dépôts et cautionnements versés (même ventilation que celle du compte 275)
+2976	base	Autres créances immobilisées (même ventilation que celle du compte 276)
+29787	base	Dépréciation du mali de fusion sur actifs financiers
+3	abrégé	Comptes de stocks et en-cours
+31	abrégé	Matières premières (et fournitures)
+311	base	Matières (ou groupe) A
+312	base	Matières (ou groupe) B
+317	base	Fournitures A, B, C,
+32	abrégé	Autres approvisionnements
+321	base	Matières consommables
+3211	étendu	Matières (ou groupe) C
+3212	étendu	Matières (ou groupe) D
+322	base	Fournitures consommables
+3221	étendu	Combustibles
+3222	étendu	Produits d’entretien
+3223	étendu	Fournitures d’atelier et d’usine
+3224	étendu	Fournitures de magasin
+3225	étendu	Fournitures de bureau
+326	base	Emballages
+3261	étendu	Emballages perdus
+3265	étendu	Emballages récupérables non identifiables
+3267	étendu	Emballages à usage mixte
+33	abrégé	En-cours de production de biens
+331	base	Produits en cours
+3311	étendu	Produits en cours P 1
+3312	étendu	Produits en cours P 2
+335	base	Travaux en cours
+3351	étendu	Travaux en cours T 1
+3352	étendu	Travaux en cours T 2
+34	abrégé	En-cours de production de services
+341	base	Études en cours
+3411	étendu	Études en cours E 1
+3412	étendu	Études en cours E 2
+345	base	Prestations de services en cours
+3451	étendu	Prestations de services S 1
+3452	étendu	Prestations de services S 2
+35	abrégé	Stocks de produits
+351	base	Produits intermédiaires
+3511	étendu	Produits intermédiaires (ou groupe) A
+3512	étendu	Produits intermédiaires (ou groupe) B
+355	base	Produits finis
+3551	étendu	Produits finis (ou groupe) A
+3552	étendu	Produits finis (ou groupe) B
+358	base	Produits résiduels (ou matières de récupération)
+3581	étendu	Déchets
+3585	étendu	Rebuts
+3586	étendu	Matières de récupération
+36	base	(compte à ouvrir, le cas échéant, sous l’intitulé "Stocks provenant d’immobilisations")
+37	abrégé	Stocks de marchandises
+371	étendu	Marchandises (ou groupe) A
+372	étendu	Marchandises (ou groupe) B
+38	base	(lorsque l’entité tient un inventaire permanent en comptabilité générale, le compte 38 peut être utilisé pour comptabiliser les stocks en voie d’acheminement, mis en dépôt ou donnés en consignation)
+39	base	Dépréciations des stocks et en-cours
+391	abrégé	Dépréciations des matières premières (et fournitures)
+3911	étendu	Matières (ou groupe) A
+3912	étendu	Matières (ou groupe) B
+3917	étendu	Fournitures A, B, C,
+392	abrégé	Dépréciations des autres approvisionnements
+3921	étendu	Matières consommables (même ventilation que celle du compte 321)
+3922	étendu	Fournitures consommables (même ventilation que celle du compte 322)
+3926	étendu	Emballages (même ventilation que celle du compte 326)
+393	abrégé	Dépréciations des en-cours de production de biens
+3931	étendu	Produits en cours (même ventilation que celle du compte 331)
+3935	étendu	Travaux en cours (même ventilation que celle du compte 335)
+394	abrégé	Dépréciations des en-cours de production de services
+3941	étendu	Études en cours (même ventilation que celle du compte 341)
+3945	étendu	Prestations de services en cours (même ventilation que celle du compte 345)
+395	abrégé	Dépréciations des stocks de produits
+3951	étendu	Produits intermédiaires (même ventilation que celle du compte 351)
+3955	étendu	Produits finis (même ventilation que celle du compte 355)
+397	abrégé	Dépréciations des stocks de marchandises
+3971	étendu	Marchandise (ou groupe) A
+3972	étendu	Marchandise (ou groupe) B
+4	abrégé	Comptes de tiers
+40	base	Fournisseurs et comptes rattachés
+400	abrégé	Fournisseurs et comptes rattachés
+401	base	Fournisseurs
+4011	étendu	Fournisseurs – Achats de biens et prestations de services
+4017	étendu	Fournisseurs – Retenues de garantie
+403	base	Fournisseurs – Effets à payer
+404	base	Fournisseurs d’immobilisations
+4041	étendu	Fournisseurs – Achats d’immobilisations
+4047	étendu	Fournisseurs d’immobilisations – Retenues de garantie
+405	base	Fournisseurs d’immobilisations – Effets à payer
+408	base	Fournisseurs – Factures non parvenues
+4081	étendu	Fournisseurs
+4084	étendu	Fournisseurs d’immobilisations
+4088	étendu	Fournisseurs – Intérêts courus
+409	abrégé	Fournisseurs débiteurs
+4091	base	Fournisseurs – Avances et acomptes versés sur commandes
+4096	base	Fournisseurs – Créances pour emballages et matériel à rendre
+4097	base	Fournisseurs – Autres avoirs
+40971	étendu	Fournisseurs d’exploitation
+40974	étendu	Fournisseurs d’immobilisations
+4098	base	Rabais, remises, ristournes à obtenir et autres avoirs non encore reçus
+41	base	Clients et comptes rattachés
+410	abrégé	Clients et comptes rattachés
+411	base	Clients
+4111	étendu	Clients – Ventes de biens ou de prestations de services
+4117	étendu	Clients – Retenues de garantie
+413	base	Clients – Effets à recevoir
+416	base	Clients douteux ou litigieux
+418	base	Clients – Produits non encore facturés
+4181	étendu	Clients – Factures à établir
+4188	étendu	Clients – Intérêts courus
+419	abrégé	Clients créditeurs
+4191	base	Clients – Avances et acomptes reçus sur commandes
+4196	base	Clients – Dettes sur emballages et matériels consignés
+4197	base	Clients – Autres avoirs
+4198	base	Rabais, remises, ristournes à accorder et autres avoirs à établir
+42	base	Personnel et comptes rattachés
+421	abrégé	Personnel – Rémunérations dues
+422	base	Comités d’entreprises, d’établissement, …
+424	base	Participation des salariés aux résultats
+4246	étendu	Réserve spéciale
+4248	étendu	Comptes courants
+425	base	Personnel – Avances et acomptes
+426	base	Personnel – Dépôts
+427	base	Personnel – Oppositions
+428	abrégé	Personnel – Charges à payer et produits à recevoir
+4282	étendu	Dettes provisionnées pour congés à payer
+4284	étendu	Dettes provisionnées pour participation des salariés aux résultats
+4286	étendu	Autres charges à payer
+4287	étendu	Produits à recevoir
+43	abrégé	Sécurité sociale et autres organismes sociaux
+431	base	Sécurité sociale
+437	base	Autres organismes sociaux
+438	base	Organismes sociaux – Charges à payer et produits à recevoir
+4382	étendu	Charges sociales sur congés à payer
+4386	étendu	Autres charges à payer
+4387	étendu	Produits à recevoir
+44	base	État et autres collectivités publiques
+441	base	État – Subventions à recevoir
+4411	étendu	Subventions d’investissement
+4417	étendu	Subventions d’exploitation
+4418	étendu	Subventions d’équilibre
+4419	étendu	Avances sur subventions
+442	base	État – Impôts et taxes recouvrables sur des tiers
+4424	étendu	Obligataires
+4425	étendu	Associés
+443	base	Opérations particulières avec l’État les collectivités publiques, les organismes internationaux
+4431	base	Créances sur l’État résultant de la suppression de la règle du décalage d’un mois en matière de TVA
+4438	base	Intérêts courus sur créances figurant au 4431
+444	abrégé	État – Impôts sur les bénéfices
+445	abrégé	État – Taxes sur le chiffre d’affaires
+4452	base	TVA due intracommunautaire
+4455	base	Taxes sur le chiffre d’affaires à décaisser
+44551	étendu	TVA à décaisser
+44558	étendu	Taxes assimilées à la TVA
+4456	base	Taxes sur le chiffre d’affaires déductibles
+44562	étendu	TVA sur immobilisations
+44563	étendu	TVA transférée par d’autres entreprises
+44566	étendu	TVA sur autres biens et services
+44567	étendu	Crédit de TVA à reporter
+44568	étendu	Taxes assimilées à la TVA
+4457	base	Taxes sur le chiffre d’affaires collectées par l’entreprise
+44571	étendu	TVA collectée
+44578	étendu	Taxes assimilées à la TVA
+4458	base	Taxes sur le chiffre d’affaires à régulariser ou en attente
+44581	étendu	Acomptes – Régime simplifié d’imposition
+44582	étendu	Acomptes – Régime de forfait
+44583	étendu	Remboursement de taxes sur le chiffre d’affaires demandé
+44584	étendu	TVA récupérée d’avance
+44586	étendu	Taxes sur le chiffre d’affaires sur factures non parvenues
+44587	étendu	Taxes sur le chiffre d’affaires sur factures à établir
+446	base	Obligations cautionnées
+447	abrégé	Autres impôts, taxes et versements assimilés
+448	base	État – Charges à payer et produits à recevoir
+4482	étendu	Charges fiscales sur congés à payer
+4486	étendu	Charges à payer
+4487	étendu	Produits à recevoir
+449	base	Quotas d’émission à acquérir
+45	abrégé	Groupe et associés
+451	base	Groupe
+455	abrégé	Associés – Comptes courants
+4551	étendu	Principal
+4558	étendu	Intérêts courus
+456	base	Associés – Opérations sur le capital
+4561	étendu	Associés – Comptes d’apport en société
+45611	étendu	Apports en nature
+45615	étendu	Apports en numéraire
+4562	étendu	Apporteurs – Capital appelé, non versé
+45621	étendu	Actionnaires – Capital souscrit et appelé, non versé
+45625	étendu	Associés – Capital appelé, non versé
+4563	étendu	Associés – Versements reçus sur augmentation de capital
+4564	étendu	Associés – Versements anticipés
+4566	étendu	Actionnaires défaillants
+4567	étendu	Associés – Capital à rembourser
+457	base	Associés – Dividendes à payer
+458	base	Associés – Opérations faites en commun et en GIE
+4581	étendu	Opérations courantes
+4588	étendu	Intérêts courus
+46	abrégé	Débiteurs divers et créditeurs divers
+462	étendu	Créances sur cessions d’immobilisations
+464	étendu	Dettes sur acquisitions de valeurs mobilières de placement
+465	étendu	Créances sur cessions de valeurs mobilières de placement
+467	étendu	Autres comptes débiteurs ou créditeurs
+468	étendu	Divers – Charges à payer et produits à recevoir
+4686	étendu	Charges à payer
+4687	étendu	Produits à recevoir
+47	abrégé	Comptes transitoires ou d’attente
+471	base	Comptes d’attente
+472	base	Comptes d’attente
+473	base	Comptes d’attente
+474	base	Comptes d’attente
+475	base	Comptes d’attente
+476	base	Différence de conversion – Actif
+4761	étendu	Diminution des créances
+4762	étendu	Augmentation des dettes
+4768	étendu	Différences compensées par couverture de change
+477	base	Différences de conversion – Passif
+4771	étendu	Augmentation des créances
+4772	étendu	Diminution des dettes
+4778	étendu	Différences compensées par couverture de change
+478	base	Autres comptes transitoires
+4786	base	Différences d’évaluation sur instruments de trésorerie – ACTIF
+4787	base	Différences d’évaluation sur instruments de trésorerie – PASSIF
+48	base	Comptes de régularisation
+481	abrégé	Charges à répartir sur plusieurs exercices
+4816	étendu	Frais d’émission des emprunts
+486	abrégé	Charges constatées d’avance
+487	abrégé	Produits constatés d’avance
+488	base	Comptes de répartition périodique des charges et des produits
+4886	étendu	Charges
+4887	étendu	Produits
+49	base	Dépréciations des comptes de tiers
+491	abrégé	Dépréciations des comptes de clients
+495	base	Dépréciations des comptes du groupe et des associés
+4951	base	Comptes du groupe
+4955	base	Comptes courants des associés
+4958	base	Opérations faites en commun et en GIE
+496	abrégé	Dépréciations des comptes de débiteurs divers
+4962	étendu	Créances sur cessions d’immobilisations
+4965	étendu	Créances sur cessions de valeurs mobilières de placement
+4967	étendu	Autres comptes débiteurs
+5	abrégé	Comptes financiers
+50	abrégé	Valeurs mobilières de placement
+501	base	Parts dans des entreprises liées
+502	base	Actions propres
+5021	étendu	Actions destinées à être attribuées aux employés et affectées à des plans déterminés
+5022	étendu	Actions disponibles pour être attribuées aux employés ou pour la régularisation des cours de bourse
+503	base	Actions
+5031	étendu	Titres cotés
+5035	étendu	Titres non cotés
+504	base	Autres titres conférant un droit de propriété
+505	base	Obligations et bons émis par la société et rachetés par elle
+506	base	Obligations
+5061	étendu	Titres cotés
+5065	étendu	Titres non cotés
+507	base	Bons du Trésor et bons de caisse à court terme
+508	base	Autres valeurs mobilières de placement et autres créances assimilées
+5081	étendu	Autres valeurs mobilières
+5082	étendu	Bons de souscription
+5088	étendu	Intérêts courus sur obligations, bons et valeurs assimilés
+509	base	Versements restant à effectuer sur valeurs mobilières de placement non libérées
+51	abrégé	Banques, établissements financiers et assimilés
+511	base	Valeurs à l’encaissement
+5111	étendu	Coupons échus à l’encaissement
+5112	étendu	Chèques à encaisser
+5113	étendu	Effets à l’encaissement
+5114	étendu	Effets à l’escompte
+512	base	Banques
+5121	étendu	Comptes en monnaie nationale
+5124	étendu	Comptes en devises
+514	base	Chèques postaux
+515	base	" Caisses " du Trésor et des établissements publics
+516	base	Sociétés de bourse
+517	base	Autres organismes financiers
+518	base	Intérêts courus
+5181	étendu	Intérêts courus à payer
+5188	étendu	Intérêts courus à recevoir
+519	base	Concours bancaires courants
+5191	étendu	Crédit de mobilisation de créances commerciales
+5193	étendu	Mobilisation de créances nées à l’étranger
+5198	étendu	Intérêts courus sur concours bancaires courants
+52	base	Instruments de trésorerie
+53	abrégé	Caisse
+531	base	Caisse siège social
+5311	étendu	Caisse en monnaie nationale
+5314	étendu	Caisse en devises
+532	étendu	Caisse succursale (ou usine) A
+533	étendu	Caisse succursale (ou usine) B
+54	abrégé	Régies d’avance et accréditifs
+58	abrégé	Virements internes
+59	base	Dépréciations des comptes financiers
+590	abrégé	Dépréciations des valeurs mobilières de placement
+5903	base	Actions
+5904	base	Autres titres conférant un droit de propriété
+5906	base	Obligations
+5908	base	Autres valeurs mobilières de placement et créances assimilées
+6	abrégé	Comptes de charges
+60	abrégé	Achats (sauf 603)
+601	base	Achats stockés – Matières premières (et fournitures)
+6011	étendu	Matières (ou groupe) A
+6012	étendu	Matières (ou groupe) B
+6017	étendu	Fournitures A, B, C,
+602	base	Achats stockés – Autres approvisionnements
+6021	base	Matières consommables
+60211	étendu	Matières (ou groupe) C
+60212	étendu	Matières (ou groupe) D
+6022	base	Fournitures consommables
+60221	étendu	Combustibles
+60222	étendu	Produits d’entretien
+60223	étendu	Fournitures d’atelier et d’usine
+60224	étendu	Fournitures de magasin
+60225	étendu	Fourniture de bureau
+6026	base	Emballages
+60261	étendu	Emballages perdus
+60265	étendu	Emballages récupérables non identifiables
+60267	étendu	Emballages à usage mixte
+604	base	Achats d’études et prestations de services
+605	base	Achats de matériel, équipements et travaux
+606	base	Achats non stockés de matière et fournitures
+6061	étendu	Fournitures non stockables (eau, énergie, …)
+6063	étendu	Fournitures d’entretien et de petit équipement
+6064	étendu	Fournitures administratives
+6068	étendu	Autres matières et fournitures
+607	base	Achats de marchandises
+6071	étendu	Marchandise (ou groupe) A
+6072	étendu	Marchandise (ou groupe) B
+608	base	(Compte réservé, le cas échéant, à la récapitulation des frais accessoires incorporés aux achats)
+609	base	Rabais, remises et ristournes obtenus sur achats
+6091	étendu	de matières premières (et fournitures)
+6092	étendu	d’autres approvisionnements stockés
+6094	étendu	d’études et prestations de services
+6095	étendu	de matériel, équipements et travaux
+6096	étendu	d’approvisionnements non stockés
+6097	étendu	de marchandises
+6098	étendu	Rabais, remises et ristournes non affectés
+603	abrégé	Variations des stocks (approvisionnements et marchandises)
+6031	base	Variation des stocks de matières premières (et fournitures)
+6032	base	Variation des stocks des autres approvisionnements
+6037	base	Variation des stocks de marchandises 61/62 – Autres charges externes
+61	abrégé	Services extérieurs
+611	base	Sous-traitance générale
+612	base	Redevances de crédit-bail
+6122	base	Crédit-bail mobilier
+6125	base	Crédit-bail immobilier
+613	base	Locations
+6132	étendu	Locations immobilières
+6135	étendu	Locations mobilières
+6136	étendu	Malis sur emballages
+614	base	Charges locatives et de copropriété
+615	base	Entretien et réparations
+6152	étendu	sur biens immobiliers
+6155	étendu	sur biens mobiliers
+6156	étendu	Maintenance
+616	base	Primes d’assurances
+6161	étendu	Multirisques
+6162	étendu	Assurance obligatoire dommage construction
+6163	étendu	Assurance – transport
+61636	étendu	sur achats
+61637	étendu	sur ventes
+61638	étendu	sur autres biens
+6164	étendu	Risques d’exploitation
+6165	étendu	Insolvabilité clients
+617	base	Études et recherches
+618	base	Divers
+6181	étendu	Documentation générale
+6183	étendu	Documentation technique
+6185	étendu	Frais de colloques, séminaires, conférences
+619	base	Rabais, remises et ristournes obtenus sur services extérieurs
+62	abrégé	Autres services extérieurs
+621	base	Personnel extérieur à l’entreprise
+6211	étendu	Personnel intérimaire
+6214	étendu	Personnel détaché ou prêté à l’entreprise
+622	base	Rémunérations d’intermédiaires et honoraires
+6221	étendu	Commissions et courtages sur achats
+6222	étendu	Commissions et courtages sur ventes
+6224	étendu	Rémunérations des transitaires
+6225	étendu	Rémunérations d’affacturage
+6226	étendu	Honoraires
+6227	étendu	Frais d’actes et de contentieux
+6228	étendu	Divers
+623	base	Publicité, publications, relations publiques
+6231	étendu	Annonces et insertions
+6232	étendu	Échantillons
+6233	étendu	Foires et expositions
+6234	étendu	Cadeaux à la clientèle
+6235	étendu	Primes
+6236	étendu	Catalogues et imprimés
+6237	étendu	Publications
+6238	étendu	Divers (pourboires, dons courants, …)
+624	base	Transports de biens et transports collectifs du personnel
+6241	étendu	Transports sur achats
+6242	étendu	Transports sur ventes
+6243	étendu	Transports entre établissements ou chantiers
+6244	étendu	Transports administratifs
+6247	étendu	Transports collectifs du personnel
+6248	étendu	Divers
+625	base	Déplacements, missions et réceptions
+6251	étendu	Voyages et déplacements
+6255	étendu	Frais de déménagement
+6256	étendu	Missions
+6257	étendu	Réceptions
+626	base	Frais postaux et de télécommunications
+627	base	Services bancaires et assimilés
+6271	étendu	Frais sur titres (achat, vente, garde)
+6272	étendu	Commissions et frais sur émission d’emprunts
+6275	étendu	Frais sur effets
+6276	étendu	Location de coffres
+6278	étendu	Autres frais et commissions sur prestations de services
+628	base	Divers
+6281	étendu	Concours divers (cotisations, )
+6284	étendu	Frais de recrutement de personnel
+629	base	Rabais, remises et ristournes obtenus sur autres services extérieurs
+63	abrégé	Impôts, taxes et versements assimilés
+631	base	Impôts, taxes et versements assimilés sur rémunérations (administrations des impôts)
+6311	étendu	Taxe sur les salaires
+6312	étendu	Taxe d’apprentissage
+6313	étendu	Participation des employeurs à la formation professionnelle continue
+6314	étendu	Cotisation pour défaut d’investissement obligatoire dans la construction
+6318	étendu	Autres
+633	base	Impôts, taxes et versements assimilés sur rémunérations (autres organismes)
+6331	étendu	Versement de transport
+6332	étendu	Allocations logement
+6333	étendu	Participation des employeurs à la formation professionnelle continue
+6334	étendu	Participation des employeurs à l’effort de construction
+6335	étendu	Versements libératoires ouvrant droit à l’exonération de la taxe d’apprentissage
+6338	étendu	Autres
+635	base	Autres impôts, taxes et versements assimilés (administrations des impôts)
+6351	étendu	Impôts directs (sauf impôts sur les bénéfices)
+63511	étendu	Contribution économique territoriale
+63512	étendu	Taxes foncières
+63513	étendu	Autres impôts locaux
+63514	étendu	Taxe sur les véhicules des sociétés
+6352	étendu	Taxe sur le chiffre d’affaires non récupérables
+6353	étendu	Impôts indirects
+6354	étendu	Droits d’enregistrement et de timbre
+63541	étendu	Droits de mutation
+6358	base	Autres droits
+637	base	Autres impôts, taxes et versements assimilés (autres organismes)
+6371	étendu	Contribution sociale de solidarité à la charge des sociétés
+6372	étendu	Taxes perçues par les organismes publics internationaux
+6374	étendu	Impôts et taxes exigibles à l’Étranger
+6378	étendu	Taxes diverses
+64	base	Charges de personnel
+641	abrégé	Rémunérations du personnel
+6411	étendu	Salaires, appointements
+6412	étendu	Congés payés
+6413	étendu	Primes et gratifications
+6414	étendu	Indemnités et avantages divers
+6415	étendu	Supplément familial
+644	abrégé	Rémunération du travail de l’exploitant
+645	abrégé	Charges de sécurité sociale et de prévoyance
+6451	étendu	Cotisations à l’URSSAF
+6452	étendu	Cotisations aux mutuelles
+6453	étendu	Cotisations aux caisses de retraites
+6454	étendu	Cotisations aux ASSEDIC
+6458	étendu	Cotisations aux autres organismes sociaux
+646	abrégé	Cotisations sociales personnelles de l’exploitant
+647	base	Autres charges sociales
+6471	étendu	Prestations directes
+6472	étendu	Versements aux comités d’entreprise et d’établissement
+6473	étendu	Versements aux comités d’hygiène et de sécurité
+6474	étendu	Versements aux autres œuvres sociales
+6475	étendu	Médecine du travail, pharmacie
+648	base	Autres charges de personnel
+65	abrégé	Autres charges de gestion courante
+651	base	Redevances pour concessions, brevets, licences, marques, procédés, logiciels, droits et valeurs similaires
+6511	étendu	Redevances pour concessions, brevets, licences, marques, procédés, logiciels
+6516	étendu	Droits d’auteur et de reproduction
+6518	étendu	Autres droits et valeurs similaires
+653	base	Jetons de présence
+654	base	Pertes sur créances irrécouvrables
+6541	étendu	Créances de l’exercice
+6544	étendu	Créances des exercices antérieurs
+655	base	Quote-part de résultat sur opérations faites en commun
+6551	étendu	Quote-part de bénéfice transférée (comptabilité du gérant)
+6555	étendu	Quote-part de perte supportée (comptabilité des associés non gérants)
+656	base	Pertes de change sur créances commerciales
+658	base	Charges diverses de gestion courante
+66	abrégé	Charges financières
+661	base	Charges d’intérêts
+6611	étendu	Intérêts des emprunts et dettes
+66116	étendu	des emprunts et dettes assimilées
+66117	étendu	des dettes rattachées à des participations
+6612	étendu	Charges de la fiducie, résultat de la période
+6615	étendu	Intérêts des comptes courants et des dépôts créditeurs
+6616	étendu	Intérêts bancaires et sur opérations de financement (escompte,...)
+6617	étendu	Intérêts des obligations cautionnées
+6618	étendu	Intérêts des autres dettes
+66181	étendu	des dettes commerciales
+66188	étendu	des dettes diverses
+664	base	Pertes sur créances liées à des participations
+665	base	Escomptes accordés
+666	base	Pertes de change financières
+667	base	Charges nettes sur cessions de valeurs mobilières de placement
+668	base	Autres charges financières
+67	abrégé	Charges exceptionnelles
+671	base	Charges exceptionnelles sur opérations de gestion
+6711	étendu	Pénalités sur marchés (et dédits payés sur achats et ventes)
+6712	étendu	Pénalités, amendes fiscales et pénales
+6713	étendu	Dons, libéralités
+6714	étendu	Créances devenues irrécouvrables dans l’exercice
+6715	étendu	Subventions accordées
+6717	étendu	Rappel d’impôts (autres qu’impôts sur les bénéfices)
+6718	étendu	Autres charges exceptionnelles sur opérations de gestion
+672	base	(Compte à la disposition des entités pour enregistrer, en cours d’exercice, les charges sur exercices antérieurs)
+674	base	Opérations de constitution ou liquidation des fiducies
+6741	étendu	Opérations liées à la constitution de fiducie – Transfert des éléments
+6742	étendu	Opérations liées à la liquidation de la fiducie
+675	base	Valeurs comptables des éléments d’actif cédés
+6751	étendu	Immobilisations incorporelles
+6752	étendu	Immobilisations corporelles
+6756	étendu	Immobilisations financières
+6758	étendu	Autres éléments d’actif
+678	base	Autres charges exceptionnelles
+6781	étendu	Malis provenant de clauses d’indexation
+6782	étendu	Lots
+6783	étendu	Malis provenant du rachat par l’entreprise d’actions et obligations émises par elle-même
+6788	étendu	Charges exceptionnelles diverses
+68	base	Dotations aux amortissements, aux dépréciations et aux provisions
+681	abrégé	Dotations aux amortissements, aux dépréciations et aux provisions – Charges d’exploitation
+6811	base	Dotations aux amortissements sur immobilisations incorporelles et corporelles
+68111	étendu	Immobilisations incorporelles
+68112	étendu	Immobilisations corporelles
+6812	base	Dotations aux amortissements des charges d’exploitation à répartir
+6815	base	Dotations aux provisions d’exploitation
+6816	base	Dotations pour dépréciations des immobilisations incorporelles et corporelles
+68161	étendu	Immobilisations incorporelles
+68162	étendu	Immobilisations corporelles
+6817	base	Dotations pour dépréciations des actifs circulants
+68173	étendu	Stocks et en-cours
+68174	étendu	Créances
+686	abrégé	Dotations aux amortissements, aux dépréciations et aux provisions – Charges financières
+6861	base	Dotations aux amortissements des primes de remboursement des obligations
+6865	base	Dotations aux provisions financières
+6866	base	Dotations pour dépréciations des éléments financiers
+68662	étendu	Immobilisations financières
+68665	étendu	Valeurs mobilières de placement
+6868	base	Autres dotations
+687	abrégé	Dotations aux amortissements, aux dépréciations et aux provisions – Charges exceptionnelles
+6871	base	Dotations aux amortissements exceptionnels des immobilisations
+6872	base	Dotations aux provisions réglementées (immobilisations)
+68725	étendu	Amortissements dérogatoires
+6873	base	Dotations aux provisions réglementées (stocks)
+6874	base	Dotations aux autres provisions réglementées
+6875	base	Dotations aux provisions exceptionnelles
+6876	base	Dotations pour dépréciations exceptionnelles
+69	base	Participation des salariés – Impôts sur les bénéfices et assimilés
+691	abrégé	Participation des salariés aux résultats
+695	abrégé	Impôts sur les bénéfices
+6951	étendu	Impôts dus en France
+6952	étendu	Contribution additionnelle à l’impôt sur les bénéfices
+6954	étendu	Impôts dus à l’étranger
+696	base	Suppléments d’impôt sur les sociétés liés aux distributions
+698	base	Intégration fiscale
+6981	base	Intégration fiscale – Charges
+6989	base	Intégration fiscale – Produits
+699	abrégé	Produits – Reports en arrière des déficits
+7	abrégé	Comptes de produits
+70	base	Ventes de produits fabriqués, prestations de services, marchandises
+701	abrégé	Ventes de produits finis
+7011	étendu	Produits finis (ou groupe) A
+7012	étendu	Produits finis (ou groupe) B
+702	base	Ventes de produits intermédiaires
+703	base	Ventes de produits résiduels
+704	base	Travaux
+7041	base	Travaux de catégorie (ou activité) A
+7042	base	Travaux de catégorie (ou activité) B
+705	base	Études
+706	abrégé	Prestations de services
+707	abrégé	Ventes de marchandises
+7071	étendu	Marchandises (ou groupe) A
+7072	étendu	Marchandises (ou groupe) B
+708	abrégé	Produits des activités annexes
+7081	étendu	Produits des services exploités dans l’intérêt du personnel
+7082	étendu	Commissions et courtages
+7083	étendu	Locations diverses
+7084	étendu	Mise à disposition de personnel facturée
+7085	étendu	Ports et frais accessoires facturés
+7086	étendu	Bonis sur reprises d’emballages consignés
+7087	étendu	Bonifications obtenues des clients et primes sur ventes
+7088	étendu	Autres produits d’activités annexes (cessions d’approvisionnements,)
+709	abrégé	Rabais, remises et ristournes accordés par l’entreprise
+7091	étendu	sur ventes de produits finis
+7092	étendu	sur ventes de produits intermédiaires
+7094	étendu	sur travaux
+7095	étendu	sur études
+7096	étendu	sur prestations de services
+7097	étendu	sur ventes de marchandises
+7098	étendu	sur produits des activités annexes
+71	base	Production stockée (ou déstockage)
+713	abrégé	Variation des stocks (en-cours de production, produits)
+7133	base	Variation des en-cours de production de biens
+71331	étendu	Produits en cours
+71335	étendu	Travaux en cours
+7134	base	Variation des en-cours de production de services
+71341	étendu	Études en cours
+71345	étendu	Prestations de services en cours
+7135	base	Variation des stocks de produits
+71351	étendu	Produits intermédiaires
+71355	étendu	Produits finis
+71358	étendu	Produits résiduels
+72	abrégé	Production immobilisée
+721	base	Immobilisations incorporelles
+722	base	Immobilisations corporelles
+74	abrégé	Subventions d’exploitation
+75	abrégé	Autres produits de gestion courante
+751	base	Redevances pour concessions, brevets, licences, marques, procédés, logiciels, droits et valeurs similaires
+7511	étendu	Redevances pour concessions, brevets, licences, marques, procédés, logiciels
+7516	étendu	Droits d’auteur et de reproduction
+7518	étendu	Autres droits et valeurs similaires
+752	base	Revenus des immeubles non affectés à des activités professionnelles
+753	abrégé	Jetons de présence et rémunérations d’administrateurs, gérants,
+754	abrégé	Ristournes perçues des coopératives (provenant des excédents)
+755	abrégé	Quote-parts de résultat sur opérations faites en commun
+7551	étendu	Quote-part de perte transférée (comptabilité du gérant)
+7555	étendu	Quote-part de bénéfice attribuée (comptabilité des associés non-gérants)
+756	base	Gains de change sur créances commerciales
+758	base	Produits divers de gestion courante
+76	abrégé	Produits financiers
+761	base	Produits de participations
+7611	étendu	Revenus des titres de participation
+7612	étendu	Produits de la fiducie, résultat de la période
+7616	étendu	Revenus sur autres formes de participation
+7617	étendu	Revenus des créances rattachées à des participations
+762	base	Produits des autres immobilisations financières
+7621	étendu	Revenus des titres immobilisés
+7626	étendu	Revenus des prêts
+7627	étendu	Revenus des créances immobilisées
+763	base	Revenus des autres créances
+7631	étendu	Revenus des créances commerciales
+7638	étendu	Revenus des créances diverses
+764	base	Revenus des valeurs mobilières de placement
+765	base	Escomptes obtenus
+766	base	Gains de change financiers
+767	base	Produits nets sur cessions de valeurs mobilières de placement
+768	base	Autres produits financiers
+77	abrégé	Produits exceptionnels
+771	base	Produits exceptionnels sur opérations de gestion
+7711	étendu	Dédits et pénalités perçus sur achats et sur ventes
+7713	étendu	Libéralités reçues
+7714	étendu	Rentrées sur créances amorties
+7715	étendu	Subventions d’équilibre
+7717	étendu	Dégrèvements d’impôts autres qu’impôts sur les bénéfices
+7718	étendu	Autres produits exceptionnels sur opérations de gestion
+772	base	(Compte à la disposition des entités pour enregistrer, en cours d’exercice, les produits sur exercices antérieurs)
+774	base	Opérations de constitution ou liquidation des fiducies
+7741	étendu	Opérations liées à la constitution de fiducie – Transfert des éléments
+7742	étendu	Opérations liées à la liquidation de la fiducie
+775	base	Produits des cessions d’éléments d’actif
+7751	étendu	Immobilisations incorporelles
+7752	étendu	Immobilisations corporelles
+7756	étendu	Immobilisations financières
+7758	étendu	Autres éléments d’actif
+777	base	Quote-part des subventions d’investissement virée au résultat de l’exercice
+778	base	Autres produits exceptionnels
+7781	étendu	Bonis provenant de clauses d’indexation
+7782	étendu	Lots
+7783	étendu	Bonis provenant du rachat par l’entreprise d’actions et d’obligations émises par elle-même
+7788	étendu	Produits exceptionnels divers
+78	base	Reprises sur amortissements, dépréciations et provisions
+781	abrégé	Reprises sur amortissements, dépréciations et provisions (à inscrire dans les produits d’exploitation)
+7811	base	Reprises sur amortissements des immobilisations incorporelles et corporelles
+78111	étendu	Immobilisations incorporelles
+78112	étendu	Immobilisations corporelles
+7815	base	Reprises sur provisions d’exploitation
+7816	base	Reprises sur dépréciations des immobilisations incorporelles et corporelles
+78161	étendu	Immobilisations incorporelles
+78162	étendu	Immobilisations corporelles
+7817	base	Reprises sur dépréciations des actifs circulants
+78173	étendu	Stocks et en-cours
+78174	étendu	Créances
+786	abrégé	Reprises sur provisions pour risques et dépréciations (à inscrire dans les produits financiers)
+7865	base	Reprises sur provisions financières
+7866	base	Reprises sur dépréciations des éléments financiers
+78662	étendu	Immobilisations financières
+78665	étendu	Valeurs mobilières de placements
+787	abrégé	Reprises sur provisions et dépréciations (à inscrire dans les produits exceptionnels)
+7872	base	Reprises sur provisions réglementées (immobilisations)
+78725	étendu	Amortissements dérogatoires
+78726	étendu	Provision spéciale de réévaluation
+78727	étendu	Plus-values réinvesties
+7873	base	Reprises sur provisions réglementées (stocks)
+7874	base	Reprises sur autres provisions réglementées
+7875	base	Reprises sur provisions exceptionnelles
+7876	base	Reprises sur dépréciations exceptionnelles
+79	abrégé	Transferts de charges
+791	base	Transferts de charges d’exploitation
+796	base	Transferts de charges financières
+797	base	Transferts de charges exceptionnelles
+8	abrégé	Comptes spéciaux
+80	base	Engagements
+801	abrégé	Engagements donnés par l’entité
+8011	étendu	Avals, cautions, garanties
+8014	étendu	Effets circulant sous l’endos de l’entité
+8016	étendu	Redevances crédit-bail restant à courir
+80161	étendu	Crédit-bail mobilier
+80165	étendu	Crédit-bail immobilier
+8018	étendu	Autres engagements donnés
+802	abrégé	Engagements reçus par l’entité
+8021	étendu	Avals, cautions, garanties
+8024	étendu	Créances escomptées non échues
+8026	étendu	Engagements reçus pour utilisation en crédit-bail
+80261	étendu	Crédit-bail mobilier
+80265	étendu	Crédit-bail immobilier
+8028	étendu	Autres engagements reçus
+809	abrégé	Contrepartie des engagements
+8091	étendu	Contrepartie 801
+8092	étendu	Contrepartie 802
+88	base	Résultat en instance d’affectation
+89	base	Bilan
+890	étendu	Bilan d’ouverture
+891	étendu	Bilan de clôture
