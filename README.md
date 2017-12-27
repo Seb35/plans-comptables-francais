@@ -1,15 +1,15 @@
 Plans comptables français
 =========================
 
-Les fichiers disponibles ici sont les plans comptables français (PCG, PCA, etc.) aux formats CSV et GNUCash.
+Les fichiers disponibles ici sont les plans comptables français (PCG, PCA, etc.) aux formats **CSV** et **GNUCash**.
 
 Les différents plans comptables sont :
 
-* Plan comptable général (PCG) : applicable à la majorité des entreprises, la dernière consolidation est celle du 1er janvier 2017.
+* _Plan comptable général (PCG) :_ applicable à la majorité des entreprises, la dernière consolidation est celle du 1er janvier 2017.
+* _Plan comptable associatif (PCA) :_ applicable à la majorité des associations, il reprend le PCG et le précise, la dernière consolidation est celle du 3 décembre 2009 (issu du PCG consolidé au 1er janvier 2017) ;
 
 À venir :
 
-* Plan comptable associatif (PCA) : applicable à la majorité des associations, il reprend le PCG et le précise, la dernière consolidation est celle du 1er janvier 2017 (issu du PCG consolidé au 1er janvier 2017) ;
 * Plan comptable associatif applicable aux fondations (PCA) : applicable aux fondation et très proche du PCA applicable aux associations, il reprend le PCG et le précise, la dernière consolidation est celle du 1er janvier 2017 (issu du PCG consolidé au 1er janvier 2017) ;
 
 AVIS DE NON-RESPONSABILITÉ
