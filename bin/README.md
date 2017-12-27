@@ -38,4 +38,4 @@ Noter que, contrairement au PCG, le règlement 99-01 du PCA ne mentionne pas de 
 Autre
 -----
 
-Le binaire `export\_gnucash.php` permet, à partir d’un fichier CSV, d’obtenir les trois fichiers \*-gnucash.xml correspondants aux trois niveaux de détails.
+Le binaire `export_gnucash.php` permet, à partir d’un fichier CSV, d’obtenir les trois fichiers \*-gnucash.xml correspondants aux trois niveaux de détails.
