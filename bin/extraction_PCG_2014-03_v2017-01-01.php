@@ -36,7 +36,7 @@ $textarray = explode( "\n", $text );
 $text = implode( "\n", array_merge( array_slice( $textarray, 4, -122 ), array( '<b>Classe 8 : Comptes spéciaux</b>' ), array_slice( $textarray, -62, -61 ), array_slice( $textarray, -53, -46 ), array_slice( $textarray, -45, -32 ), array_slice( $textarray, -19, -16 ), array_slice( $textarray, -13, -12 ), array_slice( $textarray, -8, -7 ), array( '<i>890. Bilan d’ouverture', '891. Bilan de clôture</i>' ) ) );
 
 # Retrait des changements de page
-$text = preg_replace( "/ *[0-9]+ *\n *Version du 1ER Janvier 2017 *\n *\n<hr\/?><a name=[0-9]+><\/a>PLAN COMPTABLE GENERAL VERSION CONSOLIDEE *\n( *\n18[37])?/i", "\n", $text );
+$text = preg_replace( "/ *[0-9]+ *\n *Version du 1ER Janvier 2017 *\n *\n<hr\/?><a name=[0-9]+><\/a>PLAN COMPTABLE GENERAL VERSION CONSOLIDEE *\n( *\n1[6-8][0-9])?/i", "\n", $text );
 $text = preg_replace( "/ *Version du 1er Janvier 2016 *\n *[0-9]+ *\n<hr\/?><a name=[0-9]+><\/a> */i", "\n", $text );
 
 # Retrait des titres 'Classe [0-9]'
@@ -100,12 +100,13 @@ $text = preg_replace( '/Etat/', 'État', $text );
 $text = preg_replace( '/Emission/', 'Émission', $text );
 $text = preg_replace( '/Etude/', 'Étude', $text );
 $text = preg_replace( '/Echantillon/', 'Échantillon', $text );
-$text = preg_replace( '/ +/', ' ', $text );
 $text = preg_replace( '/\(Même ventilation que celle du compte /', '(même ventilation que celle du compte ', $text );
 $text = preg_replace( '/elle - même/', 'elle-même', $text );
 $text = preg_replace( '/Sous - sols/', 'Sous-sols', $text );
 $text = preg_replace( '/non - gérants/', 'non-gérants', $text );
 $text = preg_replace( '/ - /', ' – ', $text );
+$text = preg_replace( '/ –/', ' – ', $text );
+$text = preg_replace( '/ +/', ' ', $text );
 
 # Écriture du texte résultat
 file_put_contents( 'PCG_2014-03_v2017-01-01.csv', $text . "\n" );
