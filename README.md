@@ -13,6 +13,8 @@ Les différents plans comptables sont :
 
 * _Plan comptable associatif applicable aux fondations :_ issu du règlement 2009-01 du 3 décembre 2009, il reprend le PCG (consolidé au 1er janvier 2017) et le précise,
 * _Plan comptable applicable aux entreprises d’assurance :_ issu du règlement 2015-11 du 26 novembre 2015 consolidé au 31 décembre 2016.
+* _Plan comptable applicable aux organismes de placement collectif à capital variable :_ issu du règlement 2014-01 du 14 janvier 2014 (qui sera probablement consolidé à la suite de l’homologation du règlement 2017-05 du 1er décembre 2017)
+* _Plan comptable applicable aux organismes de gestion collective des droits d’auteur et droits voisins :_ issu du règlement 2017-07 du 1er décembre 2017 (en cours d’homologation à date), très légère adaptation du PCG
 
 AVIS DE NON-RESPONSABILITÉ
 --------------------------
