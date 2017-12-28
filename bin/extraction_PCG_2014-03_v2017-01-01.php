@@ -262,6 +262,7 @@ function GnuCash_add_hierarchy( $text, $system, $root ) {
 		if( intval( substr( $matches[1], 0, 1 ) ) == 1 ) $type = 'LIABILITY';
 		if( intval( substr( $matches[1], 0, 1 ) ) == 2 ) $type = 'ASSET';
 		if( intval( substr( $matches[1], 0, 1 ) ) == 3 ) $type = 'ASSET';
+		if( intval( substr( $matches[1], 0, 1 ) ) == 4 ) $type = 'LIABILITY';
 		if( intval( substr( $matches[1], 0, 1 ) ) == 5 ) $type = 'ASSET';
 		if( intval( substr( $matches[1], 0, 1 ) ) == 6 ) $type = 'EXPENSE';
 		if( intval( substr( $matches[1], 0, 1 ) ) == 7 ) $type = 'INCOME';
