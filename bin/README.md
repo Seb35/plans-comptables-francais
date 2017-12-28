@@ -22,7 +22,7 @@ Pour les PCG correspondant au règlement 2014-03, lancer un des `extraction_PCG_
 php extraction_PCG_2014-03_v2017-01-01.php pcg_janvier 2017.pdf
 ```
 
-Noter que le niveau de détails 'étendu' n’est pas obtenu pour v2016-01-01 et v2017-01-01, il a été entré à la main. Il y a un petit bug restant dans v2017-01-01 car les numéros de page apparaissent dans certains noms de comptes (dans une page sur deux), ils ont été retirés à la main.
+Noter que le niveau de détails 'étendu' n’est pas obtenu pour v2016-01-01 et v2017-01-01 car l’extraction du PDF avec `pdftohtml` ne rend pas l’italique (probablement une différence dans le formatage interne du PDF), ce niveau de détails a donc été entré à la main après obtention du CSV (il faut ensuite exécuter `export_gnucash.php` sur le fichier CSV pour obtenir les fichiers GNUCash correspondants au CSV).
 
 PCA
 ---
