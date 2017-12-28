@@ -5,12 +5,14 @@ Les fichiers disponibles ici sont les plans comptables français (PCG, PCA, etc.
 
 Les différents plans comptables sont :
 
-* _Plan comptable général (PCG) :_ applicable à la majorité des entreprises, la dernière consolidation est celle du 1er janvier 2017.
-* _Plan comptable associatif (PCA) :_ applicable à la majorité des associations, il reprend le PCG et le précise, la dernière consolidation est celle du 3 décembre 2009 (issu du PCG consolidé au 1er janvier 2017) ;
+* _Plan comptable général (PCG) :_ applicable à la majorité des entreprises, issu du règlement 2014-03 consolidé au 1er janvier 2017,
+* _Plan comptable associatif (PCA) :_ applicable à la majorité des associations, issu du règlement 99-01 du 16 février 1999, il reprend le PCG (consolidé au au 1er janvier 2017) et le précise,
+* _Plan comptable associatif applicable aux groupements d’épargne retraite populaire :_ issu du règlement 2004-12 du 23 novembre 2004, il reprend le PCA (consolidé au 1er janvier 2017) et le précise.
 
 À venir :
 
-* Plan comptable associatif applicable aux fondations (PCA) : applicable aux fondation et très proche du PCA applicable aux associations, il reprend le PCG et le précise, la dernière consolidation est celle du 1er janvier 2017 (issu du PCG consolidé au 1er janvier 2017) ;
+* _Plan comptable associatif applicable aux fondations :_ issu du règlement 2009-01 du 3 décembre 2009, il reprend le PCG (consolidé au 1er janvier 2017) et le précise,
+* _Plan comptable applicable aux entreprises d’assurance :_ issu du règlement 2015-11 du 26 novembre 2015 consolidé au 31 décembre 2016.
 
 AVIS DE NON-RESPONSABILITÉ
 --------------------------
