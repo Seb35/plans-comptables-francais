@@ -5,11 +5,11 @@
 1022	base	Fonds statutaires (à éclater en fonction des statuts)
 1024	base	Apports sans droit de reprise
 1025	base	Legs et donations avec contrepartie d’actifs immobilisés
-1026	base	Subventions d’investissement affectées à des biens renouvelables.
+1026	base	Subventions d’investissement affectées à des biens renouvelables
 103	base	Fonds associatifs avec droit de reprise
 1034	base	Apports avec droit de reprise
 1035	base	Legs et donations avec contrepartie d’actifs immobilisés assortis d’une obligation ou d’une condition
-1036	base	Subventions d’investissement affectées à des biens renouvelables.
+1036	base	Subventions d’investissement affectées à des biens renouvelables
 105	base	Ecarts de réévaluation
 1051	base	Ecarts de réévaluation sur des biens sans droit de reprise
 1052	base	Ecarts de réévaluation sur des biens avec droit de reprise
@@ -18,9 +18,9 @@
 1063	base	Réserves statutaires ou contractuelles
 1064	base	Réserves réglementées
 1068	base	Autres réserves (dont réserves pour projet associatif)
-11	base	Eléments en instance d’affectation
+11	base	Éléments en instance d’affectation
 110	base	Report à nouveau
-115	base	Résultats sous contrôle de tiers financeurs.
+115	base	Résultats sous contrôle de tiers financeurs
 12	abrégé	Résultat de l’exercice (bénéfice ou perte)
 120	étendu	Résultat de l’exercice (bénéfice)
 129	étendu	Résultat de l’exercice (perte)

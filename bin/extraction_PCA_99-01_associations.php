@@ -12,11 +12,11 @@ $fonds_associatifs = <<<EOF
 1022	Fonds statutaires (à éclater en fonction des statuts)
 1024	Apports sans droit de reprise
 1025	Legs et donations avec contrepartie d’actifs immobilisés
-1026	Subventions d’investissement affectées à des biens renouvelables.
+1026	Subventions d’investissement affectées à des biens renouvelables
 103	Fonds associatifs avec droit de reprise
 1034	Apports avec droit de reprise
 1035	Legs et donations avec contrepartie d’actifs immobilisés assortis d’une obligation ou d’une condition
-1036	Subventions d’investissement affectées à des biens renouvelables.
+1036	Subventions d’investissement affectées à des biens renouvelables
 105	Ecarts de réévaluation
 1051	Ecarts de réévaluation sur des biens sans droit de reprise
 1052	Ecarts de réévaluation sur des biens avec droit de reprise
@@ -25,9 +25,9 @@ $fonds_associatifs = <<<EOF
 1063	Réserves statutaires ou contractuelles
 1064	Réserves réglementées
 1068	Autres réserves (dont réserves pour projet associatif)
-11	Eléments en instance d’affectation
+11	Éléments en instance d’affectation
 110	Report à nouveau
-115	Résultats sous contrôle de tiers financeurs.
+115	Résultats sous contrôle de tiers financeurs
 13	Subventions d’investissements affectées à des biens non renouvelables
 EOF;
 
@@ -108,7 +108,7 @@ $text = preg_replace( '/^(41[0-9]*)\t([a-zé]+)\t(.*)client(.*)$/m', "$1\t$2\t$3
 $text = preg_replace( '/^(41[0-9]*)\t([a-zé]+)\t(.*)Client(.*)$/m', "$1\t$2\t$3Usager$4", $text );
 
 # Enregistrement
-file_put_contents( 'PCA_99-01_v2009-12-03_issu_du_PCG_2014-03_v2017-01-01.csv', $text . "\n" );
+file_put_contents( 'PCA_99-01_associations_issu_du_PCG_2014-03_v2017-01-01.csv', $text . "\n" );
 
 
 # 2. Export en format GnuCash
@@ -309,5 +309,5 @@ foreach( array( 'abrégé', 'base', 'étendu' ) as $system ) {
 	
 	$output .= GnuCash_create_footer();
 	
-	file_put_contents( "PCA_99-01_v2009-12-03_issu_du_PCG_2014-03_v2017-01-01_$system-gnucash.xml", $output );
+	file_put_contents( "PCA_99-01_associations_issu_du_PCG_2014-03_v2017-01-01_$system-gnucash.xml", $output );
 }
