@@ -108,7 +108,7 @@ $text = preg_replace( '/^(41[0-9]*)\t([a-zé]+)\t(.*)client(.*)$/m', "$1\t$2\t$3
 $text = preg_replace( '/^(41[0-9]*)\t([a-zé]+)\t(.*)Client(.*)$/m', "$1\t$2\t$3Usager$4", $text );
 
 # Enregistrement
-file_put_contents( 'PCA_99-01_associations_issu_du_PCG_2014-03_v2017-01-01.csv', $text . "\n" );
+file_put_contents( 'PCA_99-01_v2017-01-01.csv', $text . "\n" );
 
 
 # 2. Export en format GnuCash
@@ -309,5 +309,5 @@ foreach( array( 'abrégé', 'base', 'étendu' ) as $system ) {
 	
 	$output .= GnuCash_create_footer();
 	
-	file_put_contents( "PCA_99-01_associations_issu_du_PCG_2014-03_v2017-01-01_$system-gnucash.xml", $output );
+	file_put_contents( "PCA_99-01_v2017-01-01_$system-gnucash.xml", $output );
 }
