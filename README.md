@@ -27,3 +27,26 @@ Re-génération
 -------------
 
 Pour re-générer les différents fichiers, consulter les instructions dans le dossier `bin`.
+
+Relations entre plans comptables
+--------------------------------
+
+Ce graphe indique les relations de dépendance entre les différents plans comptables français. L’éloignement dans le graphe indique à peu près l’éloignement le nombre de différences.
+
+Il ne s’agit pas vraiment d’un graphe officiel, quoique tiré des règlements lorsqu’il y a une phrase du type « Le présent plan comptable se base sur tel autre plan comptable ».
+
+```
+PCG 2014-03                entreprises
+ |\
+ | - PCG 2017-07           organismes de gestion collective des droits d’auteur et droits voisins (en cours d’homologation à fin 2017)
+ |\
+ | - PCA 99-01             associations
+ | |\
+ | | - PCA 2004-12         associations groupements d’épargne retraite populaire
+ |  \
+ |   - PCA 2009-01         fondations et fonds de dotation
+ |\
+ | - PCG 2014-01           organismes de placement collectif à capital variable
+  \
+   - PCAssurances 2015-11  entreprises d’assurance
+```
