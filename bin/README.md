@@ -41,7 +41,7 @@ PCA 2004-12
 Pour les PCA du règlement 2004-12, lancer au préalable l’extraction du PCA 99-01 sur lequel se base le PCA 2004-12, puis lancer `extraction_PCA_2004-12_associations_GERP.php` avec pour seul argument l’emplacement du CSV du PCA 99-01. Par exemple :
 
 ```sh
-php extraction_PCA_2004-12_associations.php PCA_99-01_v2017-01-01.csv
+php extraction_PCA_2004-12_associations_GERP.php PCA_99-01_v2017-01-01.csv
 ```
 
 Noter que, contrairement au PCG, le règlement 99-01 du PCA ne mentionne pas de niveau de détail (abrégé, base, étendu). Les comptes créés le sont ici avec le niveau de détail 'base' et les comptes remplacés conservent leur niveau de détail du PCG. Le règlement 2004-12 est un peu plus précis et mentionne au paragraphe 2.2.1 que le compte 7563 comporte « a minima une subdivision impérative en quatre sous-comptes », on peut probablement interpréter cela comme étant le niveau de détail « base ».
