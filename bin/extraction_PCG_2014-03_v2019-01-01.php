@@ -31,12 +31,12 @@ $text = preg_replace( '/&#34;/', '"', $text );
 $text = preg_replace( "/\n/", '', $text );
 $text = preg_replace( '/<br ?\/>/', "\n", $text );
 
+# Retrait des entêtes et pieds de page
+$text = preg_replace( "/(<!DOCTYPE.*<body>|\n *Version du 1er janvier 20[0-9]{2} *\n[0-9]+ *\n *\n<hr\/>)(<a name=[0-9]+><\/a>PLAN COMPTABLE GENERAL VERSION CONSOLIDEE *\n *|<\/body><\/html>)/i", "", $text );
+
 # Extraction des lignes hors texte
 $textarray = explode( "\n", $text );
-$text = implode( "\n", array_merge( array_slice( $textarray, 3, 1129 ), array( '<b>Classe 8 : Comptes spéciaux</b>' ), array_slice( $textarray, 1163, 1 ), array_slice( $textarray, 1172, 7 ), array_slice( $textarray, 1180, 7 ), array_slice( $textarray, 1201, 8 ), array_slice( $textarray, 1212, 1 ), array_slice( $textarray, 1217, 1 ), array( '<i>890. Bilan d’ouverture', '891. Bilan de clôture</i>' ) ) );
-
-# Retrait des changements de page
-$text = preg_replace( "/\n *Version du 1er Janvier 2019 *\n *[0-9]+ *\n *\n<hr\/?><a name=[0-9]+><\/a>PLAN COMPTABLE GENERAL VERSION CONSOLIDEE *\n *\n/i", "\n", $text );
+$text = implode( "\n", array_merge( array_slice( $textarray, 2, 1029 ), array( '<b>Classe 8 : Comptes spéciaux</b>' ), array_slice( $textarray, 1057, 1 ), array_slice( $textarray, 1066, 7 ), array_slice( $textarray, 1074, 7 ), array_slice( $textarray, 1095, 3 ), array_slice( $textarray, 1101, 1 ), array_slice( $textarray, 1106, 1 ), array( '<i>890. Bilan d’ouverture', '891. Bilan de clôture</i>' ) ) );
 
 # Retrait des titres 'Classe [0-9]'
 $text = preg_replace( '/Classe ([0-9]) : (.*)$/m', "$1 - $2", $text );
