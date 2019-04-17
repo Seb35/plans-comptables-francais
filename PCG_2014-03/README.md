@@ -3,7 +3,8 @@ Plan comptable général (PCG)
 
 Le plan comptable général (PCG) est applicable à la majorité des entreprises, il est issu du règlement 2014-03 du 5 juin 2014 de l’Autorité des Normes Comptables, consolidé à différentes dates :
 
-- **1er janvier 2017**,
+- **1er janvier 2019**,
+- 1er janvier 2017,
 - 1er janvier 2016,
 - 5 juin 2014.
 
